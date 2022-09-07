@@ -29,3 +29,19 @@
 * Figma, MarkupEasy
 
 ---
+
+## Code Example
+
+```
+function towerBuilder(nFloors) {
+  arr = []
+  let str = ''
+  for (let i = 0; i < nFloors; i++) {
+    str = ' '.repeat(nFloors - 1 - i) + '*' + '*'.repeat(i * 2) + ' '.repeat(nFloors - 1 - i)
+    arr.push(str)
+  }
+  return arr
+}
+```
+
+---
