@@ -19,3 +19,13 @@
     Result: [Diplome №5866](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/a8a7cdedd1330f981c1b165acd6c742e.png/s/800x/a/12250/sc/329)
 
 ---
+
+## Skills
+* HTML5, CSS3
+* JavaScript Basic
+* Git, GitHub
+* Gulp, Webpack
+* VS Code, WebStorm
+* Figma, MarkupEasy
+
+---
