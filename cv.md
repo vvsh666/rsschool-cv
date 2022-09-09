@@ -55,6 +55,6 @@ function towerBuilder(nFloors) {
 
 ## Experience
 
--Landing page [Repair-Design](http://masterbow.ru/repair-design/) ([GitHub](https://github.com/vvsh666/repair-design))
--Landing page [Algotrading](http://masterbow.ru/algotrading/) as graduation project on Web-master course ([GitHub](https://github.com/vvsh666/algotrading))
--Landing page [Relax Live](http://masterbow.ru/glojs/) ([GitHub](https://github.com/vvsh666/shilyaev_insane_glo))
+-   Landing page [Repair-Design](http://masterbow.ru/repair-design/) ([GitHub](https://github.com/vvsh666/repair-design))
+-   Landing page [Algotrading](http://masterbow.ru/algotrading/) as graduation project on Web-master course ([GitHub](https://github.com/vvsh666/algotrading))
+-   Landing page [Relax Live](http://masterbow.ru/glojs/) as graduation project on JS course ([GitHub](https://github.com/vvsh666/shilyaev_insane_glo))
